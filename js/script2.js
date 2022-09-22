@@ -20,8 +20,9 @@ while (i>3)
 }
 console.log(i)*/
 
-let j;
+/*let j;
 for (j = 0; j<3 ; j++){
     console.log("lokális: " +j)
 }
-console.log("globális: " + j)
+console.log("globális: " + j)*/
+
