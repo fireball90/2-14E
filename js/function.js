@@ -40,10 +40,10 @@ let age = prompt("age pls: ")
 let Hello = (age < 18) ? 
         () => alert("yo"): 
             () => alert("üdv")  
-Hello()*/
+Hello()
 
 let sum = (a,b) => {
     let eredmeny = a+b;
     return eredmeny
 }
-console.log(sum(1,3))
+console.log(sum(1,3))*/

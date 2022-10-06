@@ -21,7 +21,7 @@ console.log(user(key))
 let gyumi = prompt("milyen gyüm wanna buy?", "alma")
 let zsak = {}
 zsak[gyumi] =5
-console.log(zsak.alma)*/
+console.log(zsak.alma)
 
 function UserLetre(name,age){
     return {
@@ -43,4 +43,4 @@ let obj2 = {
     0:"text"
 }
 console.log(obj["0"])
-console.log(obj[0])
+console.log(obj[0])*/
